@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpASP.NETCoreRESTfulAPI", "CsharpASP.NETCoreRESTfulAPI\CsharpASP.NETCoreRESTfulAPI.csproj", "{AD3F49E0-2FAF-4D62-B22E-D65D6DABE144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3F49E0-2FAF-4D62-B22E-D65D6DABE144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3F49E0-2FAF-4D62-B22E-D65D6DABE144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3F49E0-2FAF-4D62-B22E-D65D6DABE144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3F49E0-2FAF-4D62-B22E-D65D6DABE144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {406A4FB6-D5E9-4F3E-AD1F-36EA1E201A98}
+	EndGlobalSection
+EndGlobal
